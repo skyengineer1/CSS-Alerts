@@ -27,11 +27,6 @@ Each alert has:
 ## 🖌 Customize
 Feel free to tweak the colors or styles in `style.css` to fit your project's theme.
 
-## 🚀 Preview
-Here are the alert designs:
-
-![CSS Alerts Preview](https://via.placeholder.com/1000x400?text=CSS+Alerts+Preview)
-
 ## 🤝 Contributing
 Contributions are welcome! Fork this repo, make your changes, and submit a pull request.
 
