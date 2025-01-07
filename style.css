@@ -1,0 +1,151 @@
+body {
+    background-color: rgb(0, 255, 106);
+}
+
+/* Combine */
+div.success,
+div.info,
+div.warning,
+div.danger,
+div.primary,
+div.secondary,
+div.dark,
+div.light {
+    width: 1000px;
+    padding: 5px;
+    letter-spacing: 2px;
+    margin-left: 30px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+span.success-link,
+span.info-link,
+span.warning-link,
+span.danger-link,
+span.primary-link,
+span.secondary-link,
+span.dark-link,
+span.light-link {
+    text-decoration: underline;
+    cursor: pointer;
+}
+/* Success Alert */
+div.success {
+    border: 1px solid green;
+    background-color: rgb(205, 255, 205);
+    color: rgb(0, 105, 0);
+}
+
+span.success {
+    color: rgb(0, 59, 0);
+}
+
+span.success-link {
+    color: rgb(0, 59, 0);
+}
+
+/* Info Alert */
+div.info {
+    border: 1px solid dodgerblue;
+    background-color: lightblue;
+    color: rgb(30, 83, 196);
+}
+
+span.info {
+    color: rgb(0, 0, 129);
+}
+
+span.info-link {
+    color: rgb(0, 0, 129);
+}
+
+/* Warning Alert */
+div.warning {
+    border: 2px solid yellow;
+    background-color: lightyellow;
+    color: rgb(114, 114, 0);
+}
+
+span.warning {
+    color: rgb(124, 124, 2);
+}
+
+span.warning-link {
+    color: rgb(124, 124, 2);
+}
+
+/* Danger Alert */
+div.danger {
+    border: 2px solid palevioletred;
+    background-color: pink;
+    color: rgb(165, 0, 110);
+}
+
+span.danger {
+    color: rgb(100, 0, 84);
+}
+
+span.danger-link {
+    color: rgb(100, 0, 84);
+}
+
+/* Primary Alert */
+div.primary {
+    border: 2px solid gold;
+    background-color: lightgoldenrodyellow;
+    color: rgb(216, 185, 8);
+}
+
+span.primary {
+    color: rgb(182, 106, 8);
+}
+
+span.primary-link {
+    color: rgb(182, 106, 8);
+}
+
+/* Secondary Alert */
+div.secondary {
+    border: 2px solid gray;
+    background-color: lightgray;
+    color: rgb(39, 39, 39);
+}
+
+span.secondary {
+    color: gray;
+}
+
+span.secondary-link {
+    color: gray;
+}
+
+/* Dark Alert */
+div.dark {
+    border: 2px solid white;
+    background-color: black;
+    color: white;
+}
+
+span.dark {
+    color: whitesmoke;
+}
+
+span.dark-link {
+    color: whitesmoke;
+}
+
+/* Light Alert */
+div.light {
+    border: 2px solid rgb(0, 157, 255);
+    background-color: skyblue;
+    color: rgb(1, 102, 165);
+}
+
+span.light {
+    color: rgb(0, 42, 68);
+}
+
+span.light-link {
+    color: rgb(0, 42, 68);
+}
